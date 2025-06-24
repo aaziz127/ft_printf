@@ -1,7 +1,6 @@
 # ft_printf
-Because ft_putnbr() and ft_putstr() aren’t enough
-
-  Summary:
+-Because ft_putnbr() and ft_putstr() aren’t enough-:
+#Summary:
 
   
 The goal of this project is quite straightforward: you will reimplement
